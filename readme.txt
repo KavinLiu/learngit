@@ -2,4 +2,4 @@ git is a distributes version control system
 git is free software.
 
 ncie job
-git tracks changes.
+git tracks changes of files.
